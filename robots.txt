@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-9ovzun.livebuyms-2931910592.xyz/sitemap.xml
